@@ -1,0 +1,11 @@
+jeevaenv/
+venv/
+*.evn
+.env
+logo.png
+**/__pycache__/
+**/vector_db/
+.vscode/
+.DS_Store
+knowledge_base/
+settings.json
