@@ -1,7 +1,7 @@
 
-#   Jeeva AI Assistant
+# AI Assistant
 
-A conversational AI assistant designed to help users explore Jeeva's website summarizing key content, answering questions, and providing quick insights into Jeeva’s mission, journey, and services.
+A conversational AI assistant designed to help users explore website summarizing key content, answering questions, and providing quick insights into Jeeva’s mission, journey, and services.
 
 This assistant scrapes content from the Jeeva website, converts it into Markdown, indexes the content using LangChain + FAISS, and serves answers via a beautiful Gradio chat interface with an elegant, corporate-clean UI.
 
